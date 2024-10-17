@@ -1,3 +1,6 @@
+# Update for Laravel 11 - 2024/10/17
+Modified composer.json to allow laravel/ illuminate/support 11.x
+
 # Transition notice – March, 2023
 We're taking over maintenance of this package (formerly stechstudio/laravel-ssh-tunnel) from Signature Tech Studio. Huge thanks to the work of @bubba-h57 and the rest of the contributors who have made this package great.
 
